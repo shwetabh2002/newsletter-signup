@@ -60,5 +60,5 @@ app.listen(process.env.PORT || 3000,function(){
 });
 
 
-// apikey- addff6190b6310984a325ef574662d67-us21
-// audience id - 6fe8e8136b
+// apikey- 
+// audience id 
